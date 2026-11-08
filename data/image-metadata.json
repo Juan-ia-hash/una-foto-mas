@@ -1,0 +1,282 @@
+[
+  {
+    "id": "01",
+    "original": "1.jpg",
+    "src": "/photos/01.webp",
+    "width": 2200,
+    "height": 1467,
+    "originalWidth": 6000,
+    "originalHeight": 4000,
+    "exifOrientation": 1
+  },
+  {
+    "id": "02",
+    "original": "2.jpg",
+    "src": "/photos/02.webp",
+    "width": 2200,
+    "height": 1467,
+    "originalWidth": 6000,
+    "originalHeight": 4000,
+    "exifOrientation": 1
+  },
+  {
+    "id": "03",
+    "original": "3.jpg",
+    "src": "/photos/03.webp",
+    "width": 1467,
+    "height": 2200,
+    "originalWidth": 4000,
+    "originalHeight": 6000,
+    "exifOrientation": 1
+  },
+  {
+    "id": "04",
+    "original": "4.jpg",
+    "src": "/photos/04.webp",
+    "width": 1920,
+    "height": 1080,
+    "originalWidth": 1920,
+    "originalHeight": 1080,
+    "exifOrientation": 1
+  },
+  {
+    "id": "05",
+    "original": "5.jpg",
+    "src": "/photos/05.webp",
+    "width": 2200,
+    "height": 1467,
+    "originalWidth": 6000,
+    "originalHeight": 4000,
+    "exifOrientation": 1
+  },
+  {
+    "id": "06",
+    "original": "IMG-20260312-WA0031 (1).jpg",
+    "src": "/photos/06.webp",
+    "width": 1600,
+    "height": 900,
+    "originalWidth": 1600,
+    "originalHeight": 900,
+    "exifOrientation": 1
+  },
+  {
+    "id": "07",
+    "original": "IMG-20260312-WA0035 (1).jpg",
+    "src": "/photos/07.webp",
+    "width": 1600,
+    "height": 900,
+    "originalWidth": 1600,
+    "originalHeight": 900,
+    "exifOrientation": 1
+  },
+  {
+    "id": "08",
+    "original": "IMG-20260314-WA0054 (2).jpg",
+    "src": "/photos/08.webp",
+    "width": 1600,
+    "height": 900,
+    "originalWidth": 1600,
+    "originalHeight": 900,
+    "exifOrientation": 1
+  },
+  {
+    "id": "09",
+    "original": "IMG-20260315-WA0334 (2).jpg",
+    "src": "/photos/09.webp",
+    "width": 2200,
+    "height": 1650,
+    "originalWidth": 4080,
+    "originalHeight": 3060,
+    "exifOrientation": 1
+  },
+  {
+    "id": "10",
+    "original": "IMG_1594.jpg",
+    "src": "/photos/10.webp",
+    "width": 1467,
+    "height": 2200,
+    "originalWidth": 4000,
+    "originalHeight": 6000,
+    "exifOrientation": 1
+  },
+  {
+    "id": "11",
+    "original": "IMG_1595.jpg",
+    "src": "/photos/11.webp",
+    "width": 1467,
+    "height": 2200,
+    "originalWidth": 6000,
+    "originalHeight": 4000,
+    "exifOrientation": 8
+  },
+  {
+    "id": "12",
+    "original": "IMG_1604.jpg",
+    "src": "/photos/12.webp",
+    "width": 1467,
+    "height": 2200,
+    "originalWidth": 4000,
+    "originalHeight": 6000,
+    "exifOrientation": 1
+  },
+  {
+    "id": "13",
+    "original": "IMG_1619.jpg",
+    "src": "/photos/13.webp",
+    "width": 2200,
+    "height": 1680,
+    "originalWidth": 2849,
+    "originalHeight": 2175,
+    "exifOrientation": 1
+  },
+  {
+    "id": "14",
+    "original": "IMG_2417.jpg",
+    "src": "/photos/14.webp",
+    "width": 1467,
+    "height": 2200,
+    "originalWidth": 4000,
+    "originalHeight": 6000,
+    "exifOrientation": 1
+  },
+  {
+    "id": "15",
+    "original": "IMG_2774.jpg",
+    "src": "/photos/15.webp",
+    "width": 1574,
+    "height": 2200,
+    "originalWidth": 4000,
+    "originalHeight": 5591,
+    "exifOrientation": 1
+  },
+  {
+    "id": "16",
+    "original": "IMG_2836.jpg",
+    "src": "/photos/16.webp",
+    "width": 2200,
+    "height": 1467,
+    "originalWidth": 6000,
+    "originalHeight": 4000,
+    "exifOrientation": 1
+  },
+  {
+    "id": "17",
+    "original": "IMG_2843.jpg",
+    "src": "/photos/17.webp",
+    "width": 2200,
+    "height": 1467,
+    "originalWidth": 5665,
+    "originalHeight": 3777,
+    "exifOrientation": 1
+  },
+  {
+    "id": "18",
+    "original": "IMG_3088.jpg",
+    "src": "/photos/18.webp",
+    "width": 2200,
+    "height": 1467,
+    "originalWidth": 5730,
+    "originalHeight": 3820,
+    "exifOrientation": 1
+  },
+  {
+    "id": "19",
+    "original": "IMG_3218.jpg",
+    "src": "/photos/19.webp",
+    "width": 2200,
+    "height": 1467,
+    "originalWidth": 6000,
+    "originalHeight": 4000,
+    "exifOrientation": 1
+  },
+  {
+    "id": "20",
+    "original": "IMG_3309.jpg",
+    "src": "/photos/20.webp",
+    "width": 2200,
+    "height": 2072,
+    "originalWidth": 3893,
+    "originalHeight": 3666,
+    "exifOrientation": 1
+  },
+  {
+    "id": "21",
+    "original": "IMG_3498.jpg",
+    "src": "/photos/21.webp",
+    "width": 2200,
+    "height": 1467,
+    "originalWidth": 6000,
+    "originalHeight": 4000,
+    "exifOrientation": 1
+  },
+  {
+    "id": "22",
+    "original": "IMG_3667.jpg",
+    "src": "/photos/22.webp",
+    "width": 2200,
+    "height": 1238,
+    "originalWidth": 4608,
+    "originalHeight": 2592,
+    "exifOrientation": 1
+  },
+  {
+    "id": "23",
+    "original": "IMG_9596.JPG",
+    "src": "/photos/23.webp",
+    "width": 1467,
+    "height": 2200,
+    "originalWidth": 6000,
+    "originalHeight": 4000,
+    "exifOrientation": 8
+  },
+  {
+    "id": "24",
+    "original": "IMG_9626 (1).jpg",
+    "src": "/photos/24.webp",
+    "width": 1467,
+    "height": 2200,
+    "originalWidth": 4000,
+    "originalHeight": 6000,
+    "exifOrientation": 1
+  },
+  {
+    "id": "25",
+    "original": "IMG_9633.JPG",
+    "src": "/photos/25.webp",
+    "width": 2200,
+    "height": 1467,
+    "originalWidth": 6000,
+    "originalHeight": 4000,
+    "exifOrientation": 1
+  },
+  {
+    "id": "26",
+    "original": "IMG_9697.JPG",
+    "src": "/photos/26.webp",
+    "width": 2200,
+    "height": 1467,
+    "originalWidth": 6000,
+    "originalHeight": 4000,
+    "exifOrientation": 1
+  },
+  {
+    "id": "27",
+    "original": "IMG_9698.JPG",
+    "src": "/photos/27.webp",
+    "width": 2200,
+    "height": 1467,
+    "originalWidth": 6000,
+    "originalHeight": 4000,
+    "exifOrientation": 1
+  },
+  {
+    "id": "28",
+    "original": "WhatsApp Image 2026-03-23 at 9.12.47 PM.jpeg",
+    "src": "/photos/28.webp",
+    "width": 1600,
+    "height": 900,
+    "originalWidth": 1600,
+    "originalHeight": 900,
+    "exifOrientation": 1
+  }
+]
